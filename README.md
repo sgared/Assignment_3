@@ -9,3 +9,7 @@ Key Calculations
 Calculated various performance metrics for players based on the data.
 Analyzed field goal percentages, three-point shooting, free throw percentages, and more.
 Extracted the top 100 players based on specific performance criteria.
+
+
+ChatGPt Chat to work me through the process
+https://chatgpt.com/share/66ecf41d-63bc-800a-801a-f8ea691898ff
